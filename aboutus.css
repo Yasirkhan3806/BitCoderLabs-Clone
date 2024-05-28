@@ -1,0 +1,21 @@
+.aboutus-member-section{
+    height: 660px; 
+    background-color: #031923; 
+}
+.aboutus-services-section{
+    margin-right: 11px;
+}
+
+
+@media (max-width:768px){
+    .aboutus-member-section{
+        height: 187vh;
+    }
+.aboutus-image-container > svg{
+    left:58px;
+}
+.aboutus-services-section{
+    height:995px;
+}
+
+}
