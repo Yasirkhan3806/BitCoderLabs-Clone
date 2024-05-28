@@ -1417,7 +1417,7 @@ footer > div >a:hover{
 }
 #mission-section {
     margin-top: 87px;
-    height: 75vh;
+    /* height: 75vh; */
 }
 #title > h1 {
     font-size: 2.1rem;
@@ -1553,7 +1553,7 @@ background: transparent;
 
 #wh-section {
     gap: 34px;
-    height: 179vh;
+    height: 105em;
 
 }
 
@@ -1581,5 +1581,18 @@ footer > div >a {
 
 .contact-information > span > a {
     font-size: 11px;
+}
+#services-section{
+    height: 88em;
+}
+#our-services-section{
+    height: 930px;
+}#main-testimonal-container{
+    gap: 69px;
+} 
+#blogs-section{
+    flex-direction: column;
+    gap: 274px;
+    height: 123em;
 }
 }
